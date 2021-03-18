@@ -1,4 +1,4 @@
-# review-scraper
+# Review Scrapper
 ## Get product's reviews and ratings
 This is a reviewscraper web app created with Flask on Heroku platform
 
